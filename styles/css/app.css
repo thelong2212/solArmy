@@ -109,7 +109,7 @@ a[href] {
   font-size: 50px;
   text-shadow: 8px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
     1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
-  margin: 40px 0;
+    margin-top: 50px;
 }
 
 .img-logo-content {
@@ -124,6 +124,7 @@ a[href] {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+  margin-top: 100px;
 }
 
 .content-body-Content p {
@@ -154,6 +155,7 @@ a[href] {
   flex-direction: column;
   display: flex;
   align-items: center;
+  margin-top: 100px
 }
 
 .text1 {
@@ -210,6 +212,9 @@ a[href] {
 
   .content-body-Content2 {
     width: auto;
+  }
+  .content, .images-content{
+    margin-top: 50px;
   }
 }
 
