@@ -1,6 +1,6 @@
 @font-face {
   font-family: UTM-Showcard;
-  src: url(/plugins/font/00166-UTM-Showcard.ttf);
+  src: url('/font/00166-UTM-Showcard.ttf');
 }
 
 * {
