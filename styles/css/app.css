@@ -67,6 +67,12 @@ a[href] {
   color: rgb(248, 100, 1);
 }
 
+.btn1 button{
+  font-family: 'UTM-Showcard';
+  background: transparent;
+  color: rgb(248, 100, 1);
+}
+
 .content-body-header {
   position: absolute;
   width: 656px;
